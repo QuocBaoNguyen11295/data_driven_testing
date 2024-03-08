@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "username": "miss",
+            "password": "miss",
+            "result": "Your username is invalid!"
+        },
+        {
+            "username": "3123",
+            "password": "dasdad",
+            "result": "Your username is invalid!"
+        },
+        {
+            "username": "tomsmith",
+            "password": "SuperSecretPassword!",
+            "result": "You logged into a secure area!"
+        }
+    ]
+}
